@@ -4,7 +4,7 @@
 
 This scirpt can export simple `ics` file by inputting schedules which will be repeated every week.
 
-![image1](.\images\image1.png)
+![image1](images/image1.png)
 
 ## Usage
 
