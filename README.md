@@ -1,5 +1,11 @@
 # ICS Formatter Scripts
 
+## Overview
+
+This scirpt can export simple `ics` file by inputting schedules which will be repeated every week.
+
+![image1](.\images\image1.png)
+
 ## Usage
 
 1. put `input.txt` on current directory.

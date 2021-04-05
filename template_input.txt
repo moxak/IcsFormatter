@@ -1,0 +1,10 @@
+月曜日/1/ClassA
+月曜日/2/ClassB
+火曜日/3/ClassC
+火曜日/4/ClassD
+火曜日/5/ClassE
+火曜日/7/ClassF
+水曜日/6/ClassG
+木曜日/5/ClassH
+金曜日/3/ClassI
+金曜日/4/ClassJ
